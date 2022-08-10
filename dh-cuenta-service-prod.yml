@@ -1,3 +1,3 @@
 server:
   port: ${PORT:9999}
- message: Consumer config alive for prod
+message: Consumer config alive for prod
